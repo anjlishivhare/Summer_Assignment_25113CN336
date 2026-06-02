@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": ".",
-      "program": "build/Debug/outDebug",
+      "cwd": "c:/Users/hp/Desktop/Summer_Assignment_25113CN336/day 1",
+      "program": "c:/Users/hp/Desktop/Summer_Assignment_25113CN336/day 1/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
